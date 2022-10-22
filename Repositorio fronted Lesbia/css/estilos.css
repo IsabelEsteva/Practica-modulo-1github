@@ -1,0 +1,12 @@
+.navbar.navbar-expand-lg bg-primary{
+background-color: blueviolet !important;
+}
+
+.list-group-item{
+ --bs-list-group-bg: transparent;
+}
+
+
+i.fa-solid.fa-user-lock.fa-2xl:hover{
+ color:blue;
+}
