@@ -1,0 +1,98 @@
+.list-group-item{
+    --bs-list-group-bg:transparent !important;
+}
+
+
+i.fa-solid.fa-use-lock.fa-2x,
+i.fa-brands.fa-linkedin.fa-2xl,
+i.fa-brands.fa-square-instagram.fa-2xl,
+i.fa-brands.fa-square-twitter.fa-2xl,
+i.fa-brands.fa-github.fa-2xl
+{
+    color:blanchedalmond;
+}
+
+
+
+i.fa-square-instagram:hover{
+
+    color:rgb(165, 42, 42)!important;
+}
+
+i.fa-github.fa-2xl:hover{
+
+    color:rgb(11, 156, 76) !important ;
+}
+
+i.fa-linkedin.fa-2xl:hover{
+
+    color:rgb(96, 11, 156) !important ;
+}
+
+i.fa-square-twitter.fa-2xl:hover{
+
+    color:rgb(45, 11, 156) !important;
+}
+i.fa-solid.fa-user-lock.fa-2x:hover{
+    color:rgb(15, 15, 237) !important;
+}
+
+section.banner{
+    background-image: url(../Assets/GavidiaSierraNevada-Venezuela-CercaCumbrePB83810m-1024x768.png);
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: relative;
+    margin-top: 9rem;
+}
+h3.intro{
+    padding-top: 15%;
+    font-size:xx-large;
+}
+
+footer{
+    background-color: rgb(34, 76, 246);
+    margin-top: auto;
+    padding: 0%;
+    
+}
+
+.card{
+    width: 100%;
+    height: 80%;
+    padding: 5rem; 
+}
+.navbar.navbar-expanded-lg-primary{
+    background-color: rgb(43, 122, 226) 
+}
+section.panel{
+    margin: top 9rem;;
+    
+}
+section.dasboard{
+     margin-top: 9rem;
+     
+}
+.button{
+    margin-top: 5%;
+}
+
+.login{
+    height: 100vh;
+   
+
+}
+.formulario-login{
+   
+    margin-top:12%;
+}
+.foto-perfil{
+    width: 70%;
+    padding-top: 10rem;
+    margin-top: 10rem;
+    justify-content: end;
+    display:flex;
+   
+}
